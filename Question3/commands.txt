@@ -8,3 +8,5 @@ ls -i sample_data.txt sample_hard.txt sample_soft.txt
 
 ls -l ~/sample_data.txt
 stat ~/sample_data.txt
+
+du -sh ~
