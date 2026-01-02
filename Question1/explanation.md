@@ -18,3 +18,7 @@ This command counts the number of characters present in the file user_info.txt, 
 This command opens the manual page for the mkdir command, providing detailed documentation about its usage and options.
 ### Useful Option: -p
 The -p option allows creation of parent directories if they do not already exist, preventing errors when creating nested directories.
+
+### Command: ls ~ | sort
+This command lists the contents of my home directory in alphabetical order. 
+At this point, only the file user_info.txt exists because this is a new terminal session.
