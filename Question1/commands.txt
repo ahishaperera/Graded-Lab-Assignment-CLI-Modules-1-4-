@@ -5,3 +5,5 @@ pwd
 ls -l
 
 echo "Linux user environment verified" > user_info.txt
+
+wc -c user_info.txt
