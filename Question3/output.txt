@@ -5,3 +5,17 @@
 (no output)
 
 50605 sample_data.txt  50605 sample_hard.txt  50607 sample_soft.txt
+
+
+-rw-r--r-- 2 ahishaperera ahishaperera 43 Jan  2 14:36 /home/ahishaperera/sample_data.txt
+
+  File: /home/ahishaperera/sample_data.txt
+  Size: 43              Blocks: 8          IO Block: 4096   regular file
+Device: 830h/2096d      Inode: 50605       Links: 2
+Access: (0644/-rw-r--r--)  Uid: ( 1000/ahishaperera)   Gid: ( 1000/ahishaperera)
+Access: 2026-01-02 14:36:15.078457819 +0530
+Modify: 2026-01-02 14:36:15.078457819 +0530
+Change: 2026-01-02 14:40:20.419395605 +0530
+ Birth: 2026-01-02 14:36:15.078457819 +0530
+
+
