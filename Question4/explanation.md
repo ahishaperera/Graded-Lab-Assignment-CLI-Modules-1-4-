@@ -12,3 +12,6 @@ The sleep command was started in the background, and jobs confirms it is running
 
 ### Command: ps -u $USER          ,     renice 10 -p 353
 The renice command changes the priority of a running process. A higher nice value means lower priority.
+
+### Command : free -h
+This command displays memory usage information in a readable format.
