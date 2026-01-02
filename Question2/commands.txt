@@ -8,3 +8,6 @@ echo "Complete Project Alpha assignments by Monday the latest!" >plan.txt
 ls -l plan.txt
 
 cp plan.txt plan_copy.txt
+
+cd ~
+mv documents project_documents
