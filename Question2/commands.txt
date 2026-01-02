@@ -4,3 +4,5 @@ cd ~/documents
 touch plan.txt
 
 echo "Complete Project Alpha assignments by Monday the latest!" >plan.txt
+
+ls -l plan.txt
