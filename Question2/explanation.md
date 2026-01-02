@@ -15,3 +15,6 @@ It confirms that my username appears as the owner.
 
 ### Command: cp plan.txt plan_copy.txt
 This command creates an exact copy of plan.txt named plan_copy.txt in the same directory.
+
+### Command: mv documents project_documents
+This command renames the documents directory to project_documents to better reflect the project scope.
