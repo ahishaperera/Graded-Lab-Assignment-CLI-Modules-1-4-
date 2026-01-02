@@ -6,3 +6,6 @@ This command lists all processes currently running under my user account.
 
 ### Command: ps -u $USER -o pid,comm,%cpu --sort=-%cpu | head
 This command identifies the process consuming the highest CPU usage among my running processes.
+
+### Command: sleep 300 &    ,   jobs
+The sleep command was started in the background, and jobs confirms it is running.
