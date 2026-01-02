@@ -15,3 +15,5 @@ mv documents project_documents
 mkdir ~/project_documents/archive
 
 mv ~/project_documents/plan_copy.txt ~/project_documents/archive/
+
+ls -R ~/project_documents
