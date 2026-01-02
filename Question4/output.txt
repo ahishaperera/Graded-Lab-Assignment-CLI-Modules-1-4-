@@ -1,1 +1,8 @@
  15:14:55 up 0 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+    PID TTY          TIME CMD
+    341 ?        00:00:00 systemd
+    342 ?        00:00:00 (sd-pam)
+    353 pts/1    00:00:00 bash
+    414 pts/0    00:00:00 bash
+    435 pts/0    00:00:00 ps
