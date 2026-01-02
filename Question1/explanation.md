@@ -31,3 +31,6 @@ This command displays the currently running Linux kernel version, providing syst
 
 ### Command: ping -c 4 www.google.com
 This command sends ICMP packets to Google’s server to verify network connectivity. Successful replies confirm internet access.
+
+### Command: uptime
+This command displays how long the system has been running, the number of logged-in users, and the system load averages for the last 1, 5, and 15 minutes.
