@@ -20,3 +20,14 @@
 [1] 525
 [1]+  Running                 sleep 300 &
 
+
+PID TTY          TIME CMD
+    341 ?        00:00:00 systemd
+    342 ?        00:00:00 (sd-pam)
+    353 pts/1    00:00:00 bash
+    584 pts/0    00:00:00 bash
+    605 pts/0    00:00:00 ps
+
+353 (process ID) old priority 0, new priority 10
+
+
