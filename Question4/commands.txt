@@ -3,3 +3,6 @@ uptime
 ps -u $USER
 
 ps -u $USER -o pid,comm,%cpu --sort=-%cpu | head
+
+sleep 300 &
+jobs
