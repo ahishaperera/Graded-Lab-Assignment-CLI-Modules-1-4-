@@ -15,3 +15,9 @@ Files with the same inode share the same data on disk.
 ### Analysis:
 sample_data.txt and sample_hard.txt share the same inode because hard links point to the same underlying file.
 sample_soft.txt has a different inode because symbolic links are separate files pointing to the target.
+
+### Command: ls -l sample_data.txt
+Displays file permissions, ownership, size, and modification time.
+
+### Command: stat sample_data.txt
+Displays detailed file metadata including access, modify, change timestamps, and inode number.
