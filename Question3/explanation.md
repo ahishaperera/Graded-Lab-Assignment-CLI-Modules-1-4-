@@ -32,3 +32,11 @@ Displays the size of each file in my home directory in a human-readable format a
 Deletes the symbolic link sample_soft.txt.
 ### Command: ls -l ~/sample_data.txt
 Verifies that the original file sample_data.txt remains unaffected.
+
+### Command: du -h ~
+Displays disk usage of all files and directories inside home in human-readable format.
+### Command: du -sh ~/*
+Displays the size of each subdirectory/file in home in a summarized human-readable format.
+### Command: df -h
+Displays disk space usage for all mounted filesystems in human-readable format, showing total, used, available space, and mount points.
+
