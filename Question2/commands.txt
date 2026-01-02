@@ -11,3 +11,5 @@ cp plan.txt plan_copy.txt
 
 cd ~
 mv documents project_documents
+
+mkdir ~/project_documents/archive
