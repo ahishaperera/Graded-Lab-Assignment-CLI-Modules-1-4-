@@ -8,5 +8,7 @@ total 0
 
 31 user_info.txt
 
-output is too long to be included. MKDIR manual is the output.
+output is too long to be included. MKDIR manual is the output. Have included in the screenshots.
+
+user_info.txt
 
