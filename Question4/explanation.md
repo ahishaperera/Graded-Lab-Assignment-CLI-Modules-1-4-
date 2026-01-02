@@ -24,3 +24,6 @@ This command displays the name of the shell currently in use.
 
 ### Command : uname -a > system_report.txt            ,   cat system_report.txt
 The output of a system information command was redirected into system_report.txt.
+
+### Command : ncdu ~
+The ncdu command was attempted to visualize disk usage interactively. However, the command was not available on the system, as indicated by the "command not found" error. Since the instructionss explicitly prohibit making configuration changes, the tool was not installed. ncdu is an interactive disk usage analyzer that displays directory sizes in a navigable interface, helping users identify space-consuming files and directories. 
