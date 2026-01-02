@@ -1,3 +1,5 @@
 (no output) as a directory is created.
 
 (no output) as a file is created.
+
+(no output) as content is added to file.
