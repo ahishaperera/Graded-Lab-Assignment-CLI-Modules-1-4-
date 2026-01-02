@@ -13,3 +13,5 @@ This command writes sample project text into plan.txt, adding content for demons
 This command displays permissions, ownership, file size, and modification time of plan.txt.
 It confirms that my username appears as the owner.
 
+### Command: cp plan.txt plan_copy.txt
+This command creates an exact copy of plan.txt named plan_copy.txt in the same directory.
