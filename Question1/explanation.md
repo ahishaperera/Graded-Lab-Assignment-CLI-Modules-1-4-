@@ -28,3 +28,6 @@ This command searches for the word "admin" inside log.txt and displays only the 
 
 ### Command: uname -r
 This command displays the currently running Linux kernel version, providing system-level information.
+
+### Command: ping -c 4 www.google.com
+This command sends ICMP packets to Google’s server to verify network connectivity. Successful replies confirm internet access.
