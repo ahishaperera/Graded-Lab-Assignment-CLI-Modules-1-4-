@@ -9,3 +9,5 @@ jobs
 
 ps -u $USER
 renice 10 -p 353
+
+free -h
