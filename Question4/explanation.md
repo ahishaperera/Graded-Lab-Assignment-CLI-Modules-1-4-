@@ -18,3 +18,6 @@ This command displays memory usage information in a readable format.
 
 ### Command : df -h ~
 This command displays disk space usage for the filesystem containing my home directory.
+
+### Command : echo $SHELL
+This command displays the name of the shell currently in use.
