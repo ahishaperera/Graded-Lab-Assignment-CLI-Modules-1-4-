@@ -10,3 +10,6 @@ This command lists all files and directories in the current directory in long fo
 
 ### Command: echo "Linux user environment verified" > user_info.txt
 This command creates a file named user_info.txt and writes the specified line into it, confirming that the user environment has been verified.
+
+### Command: wc -c user_info.txt
+This command counts the number of characters present in the file user_info.txt, helping verify the file’s content integrity.
