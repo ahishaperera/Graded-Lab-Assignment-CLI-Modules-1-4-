@@ -13,3 +13,8 @@ This command creates a file named user_info.txt and writes the specified line in
 
 ### Command: wc -c user_info.txt
 This command counts the number of characters present in the file user_info.txt, helping verify the file’s content integrity.
+
+### Command: man mkdir
+This command opens the manual page for the mkdir command, providing detailed documentation about its usage and options.
+### Useful Option: -p
+The -p option allows creation of parent directories if they do not already exist, preventing errors when creating nested directories.
