@@ -11,3 +11,5 @@ wc -c user_info.txt
 man mkdir
 
 ls ~ | sort
+
+grep "admin" log.txt
