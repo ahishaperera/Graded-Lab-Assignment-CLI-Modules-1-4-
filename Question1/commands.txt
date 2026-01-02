@@ -15,3 +15,5 @@ ls ~ | sort
 grep "admin" log.txt
 
 uname -r
+
+ping -c 4 www.google.com
