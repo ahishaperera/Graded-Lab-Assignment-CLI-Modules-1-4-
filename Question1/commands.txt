@@ -1,2 +1,5 @@
 whoami
 groups
+
+pwd
+ls -l
