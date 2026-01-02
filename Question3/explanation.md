@@ -27,3 +27,8 @@ Shows the total disk usage of my home directory in a human-readable format (e.g.
 
 ### Command: ls -lh ~
 Displays the size of each file in my home directory in a human-readable format along with permissions and timestamps.
+
+### Command: rm ~/sample_soft.txt
+Deletes the symbolic link sample_soft.txt.
+### Command: ls -l ~/sample_data.txt
+Verifies that the original file sample_data.txt remains unaffected.
