@@ -18,3 +18,6 @@ This command creates an exact copy of plan.txt named plan_copy.txt in the same d
 
 ### Command: mv documents project_documents
 This command renames the documents directory to project_documents to better reflect the project scope.
+
+### Command: mkdir ~/project_documents/archive
+This command creates a subdirectory named archive inside project_documents for storing old or duplicate files.
