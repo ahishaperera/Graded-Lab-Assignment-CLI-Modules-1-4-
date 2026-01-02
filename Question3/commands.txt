@@ -10,3 +10,5 @@ ls -l ~/sample_data.txt
 stat ~/sample_data.txt
 
 du -sh ~
+
+ls -lh ~
