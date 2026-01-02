@@ -13,3 +13,5 @@ man mkdir
 ls ~ | sort
 
 grep "admin" log.txt
+
+uname -r
