@@ -9,3 +9,7 @@ This command creates an empty file named plan.txt inside the documents directory
 ### Command: echo "Complete Project Alpha assignments by Monday the latest!" > plan.txt
 This command writes sample project text into plan.txt, adding content for demonstration purposes.
 
+### Command: ls -l plan.txt
+This command displays permissions, ownership, file size, and modification time of plan.txt.
+It confirms that my username appears as the owner.
+
