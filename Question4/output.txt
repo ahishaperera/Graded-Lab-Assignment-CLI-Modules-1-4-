@@ -31,3 +31,8 @@ PID TTY          TIME CMD
 353 (process ID) old priority 0, new priority 10
 
 
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       395Mi        14Gi       3.0Mi       137Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+
+
