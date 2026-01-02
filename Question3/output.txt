@@ -29,3 +29,4 @@ drwxr-xr-x 3 ahishaperera ahishaperera 4.0K Jan  2 14:09 project_documents
 lrwxrwxrwx 1 ahishaperera ahishaperera   34 Jan  2 14:43 sample_soft.txt -> /home/ahishaperera/sample_data.txt
 -rw-r--r-- 1 ahishaperera ahishaperera   31 Jan  2 12:41 user_info.txt
 
+(no output)
