@@ -9,3 +9,6 @@ Hard links are additional names for the same file content.
 This command creates a symbolic (soft) link named sample_soft.txt that points to sample_data.txt.
 Unlike a hard link, a symbolic link has its own inode.
 
+### Command: ls -i sample_data.txt sample_hard.txt sample_soft.txt
+This command displays the inode numbers of the three files.
+Files with the same inode share the same data on disk.
