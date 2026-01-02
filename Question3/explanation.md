@@ -21,3 +21,6 @@ Displays file permissions, ownership, size, and modification time.
 
 ### Command: stat sample_data.txt
 Displays detailed file metadata including access, modify, change timestamps, and inode number.
+
+### Command: du -sh ~
+Shows the total disk usage of my home directory in a human-readable format (e.g., KB, MB, GB).
