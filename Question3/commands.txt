@@ -1,3 +1,5 @@
 echo "This is some sample data for testing links" > ~/sample_data.txt
 
 ln ~/sample_data.txt ~/sample_hard.txt
+
+ln -s ~/sample_data.txt ~/sample_soft.txt
