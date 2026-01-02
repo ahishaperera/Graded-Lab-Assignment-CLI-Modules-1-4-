@@ -24,3 +24,6 @@ This command creates a subdirectory named archive inside project_documents for s
 
 ### Command: mv ~/project_documents/plan_copy.txt ~/project_documents/archive/
 This command moves plan_copy.txt into the archive subdirectory for organization.
+
+### Command: ls -R ~/project_documents
+This command lists all files and subdirectories inside project_documents recursively, showing the complete directory structure.
