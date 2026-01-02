@@ -16,3 +16,6 @@ ls -lh ~
 rm ~/sample_soft.txt
 ls -l ~/sample_data.txt
 
+du -h ~
+du -sh ~/*
+df -h
