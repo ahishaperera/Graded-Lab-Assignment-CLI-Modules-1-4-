@@ -17,3 +17,5 @@ mkdir ~/project_documents/archive
 mv ~/project_documents/plan_copy.txt ~/project_documents/archive/
 
 ls -R ~/project_documents
+
+realpath ~/project_documents/archive/plan_copy.txt
