@@ -20,3 +20,12 @@ Change: 2026-01-02 14:40:20.419395605 +0530
 
 
 56K     /home/ahishaperera
+
+total 20K
+-rw-r--r-- 1 ahishaperera ahishaperera  290 Jan  2 13:04 log.txt
+drwxr-xr-x 3 ahishaperera ahishaperera 4.0K Jan  2 14:09 project_documents
+-rw-r--r-- 2 ahishaperera ahishaperera   43 Jan  2 14:36 sample_data.txt
+-rw-r--r-- 2 ahishaperera ahishaperera   43 Jan  2 14:36 sample_hard.txt
+lrwxrwxrwx 1 ahishaperera ahishaperera   34 Jan  2 14:43 sample_soft.txt -> /home/ahishaperera/sample_data.txt
+-rw-r--r-- 1 ahishaperera ahishaperera   31 Jan  2 12:41 user_info.txt
+
