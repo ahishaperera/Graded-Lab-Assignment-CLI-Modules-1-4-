@@ -21,3 +21,6 @@ This command displays disk space usage for the filesystem containing my home dir
 
 ### Command : echo $SHELL
 This command displays the name of the shell currently in use.
+
+### Command : uname -a > system_report.txt            ,   cat system_report.txt
+The output of a system information command was redirected into system_report.txt.
