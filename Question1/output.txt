@@ -5,3 +5,5 @@ ahishaperera adm dialout cdrom floppy sudo audio dip video plugdev netdev
 total 0
 
 (no output)
+
+31 user_info.txt
