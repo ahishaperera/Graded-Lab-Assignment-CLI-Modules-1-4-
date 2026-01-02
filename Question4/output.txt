@@ -6,3 +6,12 @@
     353 pts/1    00:00:00 bash
     414 pts/0    00:00:00 bash
     435 pts/0    00:00:00 ps
+
+
+    PID COMMAND         %CPU
+    341 systemd          0.0
+    342 (sd-pam)         0.0
+    353 bash             0.0
+    460 bash             0.0
+    485 ps               0.0
+    486 head             0.0
