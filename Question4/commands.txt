@@ -18,3 +18,5 @@ echo $SHELL
 
 uname -a > system_report.txt
 cat system_report.txt
+
+ncdu ~
