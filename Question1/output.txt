@@ -7,3 +7,6 @@ total 0
 (no output)
 
 31 user_info.txt
+
+output is too long to be included. MKDIR manual is the output.
+
