@@ -25,3 +25,6 @@ At this point, only the file user_info.txt exists because this is a new terminal
 
 ### Command: grep "admin" log.txt
 This command searches for the word "admin" inside log.txt and displays only the lines that contain matching text.
+
+### Command: uname -r
+This command displays the currently running Linux kernel version, providing system-level information.
