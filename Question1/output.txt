@@ -1,1 +1,3 @@
+ahishaperera
+ahishaperera adm dialout cdrom floppy sudo audio dip video plugdev netdev
 
