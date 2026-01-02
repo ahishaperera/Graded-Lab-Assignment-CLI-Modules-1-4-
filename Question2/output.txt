@@ -5,3 +5,5 @@
 (no output) as content is added to file.
 
 -rw-r--r-- 1 ahishaperera ahishaperera 57 Jan  2 13:49 plan.txt
+
+(no output) copy of file is created.
