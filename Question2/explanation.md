@@ -27,3 +27,6 @@ This command moves plan_copy.txt into the archive subdirectory for organization.
 
 ### Command: ls -R ~/project_documents
 This command lists all files and subdirectories inside project_documents recursively, showing the complete directory structure.
+
+### Command: realpath ~/project_documents/archive/plan_copy.txt
+This command displays the absolute path of plan_copy.txt after it has been moved to the archive directory, confirming its new location.
