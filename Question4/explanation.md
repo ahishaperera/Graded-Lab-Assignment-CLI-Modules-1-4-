@@ -15,3 +15,6 @@ The renice command changes the priority of a running process. A higher nice valu
 
 ### Command : free -h
 This command displays memory usage information in a readable format.
+
+### Command : df -h ~
+This command displays disk space usage for the filesystem containing my home directory.
