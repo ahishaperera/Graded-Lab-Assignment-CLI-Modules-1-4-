@@ -21,3 +21,5 @@ archive  plan.txt
 /home/ahishaperera/project_documents/archive:
 plan_copy.txt
 
+/home/ahishaperera/project_documents/archive/plan_copy.txt
+
