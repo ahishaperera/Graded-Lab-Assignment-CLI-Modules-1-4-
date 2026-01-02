@@ -41,5 +41,7 @@ Filesystem      Size  Used Avail Use% Mounted on
 /dev/sdd       1007G  1.2G  955G   1% /
 
 
+/bin/bash
+
 
 
