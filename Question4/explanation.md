@@ -9,3 +9,6 @@ This command identifies the process consuming the highest CPU usage among my run
 
 ### Command: sleep 300 &    ,   jobs
 The sleep command was started in the background, and jobs confirms it is running.
+
+### Command: ps -u $USER          ,     renice 10 -p 353
+The renice command changes the priority of a running process. A higher nice value means lower priority.
