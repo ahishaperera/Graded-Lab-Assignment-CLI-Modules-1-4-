@@ -21,3 +21,6 @@ This command renames the documents directory to project_documents to better refl
 
 ### Command: mkdir ~/project_documents/archive
 This command creates a subdirectory named archive inside project_documents for storing old or duplicate files.
+
+### Command: mv ~/project_documents/plan_copy.txt ~/project_documents/archive/
+This command moves plan_copy.txt into the archive subdirectory for organization.
