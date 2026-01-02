@@ -8,3 +8,5 @@ This command prints the present working directory. It confirms the exact locatio
 ### Command: ls -l
 This command lists all files and directories in the current directory in long format, showing permissions, ownership, size and modification time.
 
+### Command: echo "Linux user environment verified" > user_info.txt
+This command creates a file named user_info.txt and writes the specified line into it, confirming that the user environment has been verified.
