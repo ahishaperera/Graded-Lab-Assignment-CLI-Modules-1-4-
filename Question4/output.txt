@@ -36,3 +36,10 @@ Mem:            15Gi       395Mi        14Gi       3.0Mi       137Mi        14Gi
 Swap:          4.0Gi          0B       4.0Gi
 
 
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.2G  955G   1% /
+
+
+
+
