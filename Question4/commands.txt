@@ -6,3 +6,6 @@ ps -u $USER -o pid,comm,%cpu --sort=-%cpu | head
 
 sleep 300 &
 jobs
+
+ps -u $USER
+renice 10 -p 353
