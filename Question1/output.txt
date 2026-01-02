@@ -13,3 +13,6 @@ output is too long to be included. MKDIR manual is the output. Have included in 
 user_info.txt
 
 Was being satisfied enough? He looked around him at everyone yearning to just be satisfied in their daily life admin and he had reached that goal.
+
+6.6.87.2-microsoft-standard-WSL2
+
